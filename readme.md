@@ -20,7 +20,7 @@ This is a weather data application built with React.js, Material-UI components, 
 
 2. Navigate to the project directory:
     ```shell
-    cd your-repo
+    cd weatherApp
 
 3. Install the dependencies:
     ```shell
