@@ -16,20 +16,20 @@ This is a weather data application built with React.js, Material-UI components, 
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/vinaykeshava/weatherApp.git
 
 2. Navigate to the project directory:
-
+    ```shell
     cd your-repo
 
 3. Install the dependencies:
-
+    ```shell
     npm install
 Obtain an API key from WeatherAPI and insert it in the getWeather function located in the services file.
 
 ### Usage
 Start the development server:
-
+    ```shell
     npm run dev
 Open your web browser and navigate to http://localhost:5173 to access the application.
 
